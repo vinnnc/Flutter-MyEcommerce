@@ -1,0 +1,1 @@
+ /Users/wenchu/Projects/Flutter-MyEcommerce/.dart_tool/flutter_build/060c998ffd9313a241335ad3dcc9f392/native_assets.yaml: 
